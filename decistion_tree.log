@@ -1,0 +1,10 @@
+|--- feature_1 <= 0.50
+|   |--- feature_0 <= 2.50
+|   |   |--- class: 1
+|   |--- feature_0 >  2.50
+|   |   |--- class: 0
+|--- feature_1 >  0.50
+|   |--- feature_4 <= 0.50
+|   |   |--- class: 0
+|   |--- feature_4 >  0.50
+|   |   |--- class: 0
